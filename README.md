@@ -56,6 +56,9 @@ There are several things to be aware of when using these files:
 
 The following data sets are available:
 
+- **Juncewo-2152673-Item3**: Baptisms from 1632 through 1732. This item
+  is incomplete.
+
 - **Juncewo-2152673-Item4**: Baptisms from 1732 through 1779.
 
 - **Juncewo-2152673-Item5**: Baptisms from 1779 through 1802. This part of
