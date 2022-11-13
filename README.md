@@ -50,14 +50,23 @@ There are several things to be aware of when using these files:
   obvious sets of twins. I've done my best to figure out which children
   go to which parents, but I may have gotten it wrong.
 
+- I have been of several minds about how to deal with names as I've
+  been working on this. At times, I've tried to faithfully record what 
+  is on the film. At times, I've changed surnames from genetive to nominative
+  case when I knew how to do that to the surname (leaving them in
+  genetive when I don't). At times I've been of the opinion that names 
+  should be regularized, thinkg that Latin names recorded here aren't 
+  the actual name, which would be Polish (a big driver for this was the
+  one fellow who usually  recording Regina as Reina). So the names are
+  a bit of a jumbled mess and you'll need to keep an open mind.
+
 -----
 
 ### The Files
 
 The following data sets are available:
 
-- **Juncewo-2152673-Item3**: Baptisms from 1632 through 1732. This item
-  is incomplete.
+- **Juncewo-2152673-Item3**: Baptisms from 1632 through 1732.
 
 - **Juncewo-2152673-Item4**: Baptisms from 1732 through 1779.
 
@@ -73,9 +82,13 @@ The following data sets are available:
   this item is incomplete.
 
 I will be working on the incomplete items and then doing some proofreading,
-but the going will be slow. I will probably be concentrating on 
-Juncewo-2152673-Item4 for the foreseeable future, because I can do that
-without access to the microfilm.
+but the going will be slow. I don't know when I'll be able to complete
+Juncewo-2152674-Item2; at the moment, my local family history center
+is only open one day a week during the morning; I can't patronize it
+then, because I have a job. I do not know when hours may be extended
+to allow me to once again view the film; I don't expect it to be
+digitized anytime soon, as some of the items on the film contain records
+extending into the 1960s.
 
 -----
 
